@@ -1,5 +1,0 @@
-tensorflow==2.4.0
-sklearn
-numpy
-opencv-python
-mediapipe
